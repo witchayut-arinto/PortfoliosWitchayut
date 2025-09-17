@@ -51,10 +51,19 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
+<!-- ## 📈 GitHub Stats -->
+<!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?witchayut-arinto=⟪witchayut-arinto⟫&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?witchayut-arinto=⟪witchayut-arinto⟫&layout=compact&hide_border=true" />
+</div> -->
+
+## 📈 GitHub Stats
+<div align="center">
+  <!-- กราฟสถิติ GitHub -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=witchayut-arinto&show_icons=true&hide_border=true" />
+  
+  <!-- กราฟภาษาที่ใช้มากที่สุด -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchayut-arinto&layout=compact&hide_border=true" />
 </div>
 
 ---
