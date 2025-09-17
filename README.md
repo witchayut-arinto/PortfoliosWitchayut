@@ -16,7 +16,7 @@
 - 🌱  I’m currently learning Robot Framework And Selenium
 - 🛠  Daily driver stack: **⟪VScode, SeleniumLibrary, Allure Report⟫** 
 - 🎯  2025 Goal: **⟪Continuously enhancing my testing skills to achieve greater expertise, contributing value to the company and supporting long-term career growth.⟫**  
-- 📫  Reach me: **⟪witchayutarinto@gmail.com⟫** | [Phone number](⟪+66 063-148-0572⟫)
+- 📫  Reach me: **⟪witchayutarinto@gmail.com⟫** | [Phone number] ⟪063-148-0572⟫
 
 ---
 
@@ -53,8 +53,8 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?witchayut-arinto=⟪witchayut-arinto⟫&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?witchayut-arinto=⟪witchayut-arinto⟫&layout=compact&hide_border=true" />
 </div>
 
 ---
