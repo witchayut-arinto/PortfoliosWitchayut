@@ -26,7 +26,6 @@
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
 | Tester | ![RobotFramework](https://www.somkiat.cc/wp-content/uploads/2022/03/robot.png) ![SeleniumLibrary](https://upload.wikimedia.org/wikipedia/commons/8/82/Selenium.png) | ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png) | ![JavaScript](https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png) |
-<!-- | Other Tool | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) | -->
 
 
 </div>
