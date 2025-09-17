@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning Robot Framework And Selenium
+- 🌱  I’m currently learning **⟪Robot Framework And Selenium⟫** 
 - 🛠  Daily driver stack: **⟪VScode, SeleniumLibrary, Allure Report⟫** 
 - 🎯  2025 Goal: **⟪Continuously enhancing my testing skills to achieve greater expertise, contributing value to the company and supporting long-term career growth.⟫**  
 - 📫  Reach me: **⟪witchayutarinto@gmail.com⟫** | [Phone number] ⟪063-148-0572⟫
@@ -23,10 +23,15 @@
 ## 🧰 Tech Stack & Tools
 <div align="center">
 
+<!-- | Domain | Primary | Comfortable | Currently Exploring |
+|--------|---------|-------------|---------------------|
+| Tester | ![RobotFramework](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![SeleniumLibrary](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![JavaScript](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
+| Other Tool | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) | -->
+
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
+| Tester | ![RobotFramework] ![SeleniumLibrary] | ![Python] | ![JavaScript] |
+| Other Tool | ![PostgreSQL] | ![MongoDB] | ![DuckDB] |
 
 </div>
 
