@@ -70,9 +70,8 @@ _Add 2–4 projects max. Each row should fit on one screen._
   <img src="https://komarev.com/ghpvc/?username=witchayut-arinto&style=flat-square" alt="profile views"/>
 </p> -->
 
-<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 <!-- Divider Animation -->
