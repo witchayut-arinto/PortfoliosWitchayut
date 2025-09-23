@@ -1,61 +1,50 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="img\port1.jpg" alt="header image" />
+  <img src="img/port1.jpg" alt="header image" width="900" />
 </p>
 
-<h1 align="center">Hello, I’m Witchayut Arinto <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">
+  Hello, I’m <span style="color:#4CAF50;">Witchayut Arinto</span> 
+  <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" />
+</h1>
 
 <p align="center">
-  <strong>Software Tester • Quality Advocate • Lifelong Learner</strong><br/>
+  <strong>🧪 Software Tester • 🛡 Quality Advocate • 📚 Lifelong Learner</strong><br/>
   <em>“Ensuring software works flawlessly and delivers real value.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪Robot Framework And Selenium⟫** 
-- 🛠  Daily driver stack: **⟪VScode, SeleniumLibrary, Allure Report⟫** 
-- 🎯  2025 Goal: **⟪Continuously enhancing my testing skills to achieve greater expertise, contributing value to the company and supporting long-term career growth.⟫**  
-- 📫  Reach me: **⟪witchayutarinto@gmail.com⟫** | [Phone number] ⟪063-148-0572⟫
+- 🌱 Currently learning: **Robot Framework & Selenium**  
+- 🛠 Daily driver stack: **VSCode · SeleniumLibrary · Allure Report**  
+- 🎯 2025 Goal: *Continuously enhancing my testing skills to achieve greater expertise, contributing value to the company and supporting long-term career growth.*  
+- 📫 Reach me: **witchayutarinto@gmail.com** | 📱 063-148-0572  
 
 ---
 
 ## 🧰 Tech Stack & Tools
-<div align="center">
-
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Tester | ![RobotFramework](https://www.somkiat.cc/wp-content/uploads/2022/03/robot.png) ![SeleniumLibrary](https://upload.wikimedia.org/wikipedia/commons/8/82/Selenium.png) | ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png) | ![JavaScript](https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png) |
-
-
-</div>
+| Domain | Primary | Comfortable | Exploring |
+|--------|---------|-------------|-----------|
+| Tester | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-2C3E50?style=for-the-badge&logo=robotframework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-4CAF50?style=for-the-badge&logo=selenium&logoColor=white) | ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Appium](https://img.shields.io/badge/Appium-2196F3?style=for-the-badge&logo=appium&logoColor=white) |
 
 ---
 
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
-
-_Add 2–4 projects max. Each row should fit on one screen._
-
+| Agri Equipment Rental Automation Testing | Robot Framework · Selenium | Automation Testing | [Repo](#) |
 ---
 
 ## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪2025⟫ • Developing automated tests using Robot Framework for a university project
+- 📝 *2025* • Developing automated tests using **Robot Framework** for a university project  
 
 ---
 
 ## 📈 GitHub Stats
 <div align="center">
-  <!-- กราฟสถิติ GitHub -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=witchayut-arinto&show_icons=true&hide_border=true" />
-  
-  <!-- กราฟภาษาที่ใช้มากที่สุด -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchayut-arinto&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=witchayut-arinto&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchayut-arinto&layout=compact&theme=vue-dark&hide_border=true" />
 </div>
 
 ---
@@ -63,8 +52,10 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪witchayutarinto@gmail.com⟫
-- 🐦 DM me on [Facebook](⟪https://www.facebook.com/witchayut.arinto/⟫)
+- 💌 Email: [witchayutarinto@gmail.com](mailto:witchayutarinto@gmail.com)  
+- 📘 Facebook: [Witchayut Arinto](https://www.facebook.com/witchayut.arinto/)  
+
+---
 
 <!-- Wave Footer -->
 <p align="center">
@@ -73,10 +64,5 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;See+you+next+time+👋;Keep+learning,+keep+growing!"/>
-</p>
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;See+you+next+time+👋;Keep+learning,+keep+growing!"/>
 </p>
