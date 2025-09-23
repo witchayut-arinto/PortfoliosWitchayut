@@ -66,7 +66,16 @@ _Add 2–4 projects max. Each row should fit on one screen._
 - 💌 Email: ⟪witchayutarinto@gmail.com⟫
 - 🐦 DM me on [Facebook](⟪https://www.facebook.com/witchayut.arinto/⟫)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=witchayut-arinto&style=flat-square" alt="profile views"/>
+</p> -->
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<!-- Divider Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4CAF50,100:2c3e50&height=100&section=footer"/>
+</p>
