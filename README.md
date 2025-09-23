@@ -66,15 +66,33 @@ _Add 2–4 projects max. Each row should fit on one screen._
 - 💌 Email: ⟪witchayutarinto@gmail.com⟫
 - 🐦 DM me on [Facebook](⟪https://www.facebook.com/witchayut.arinto/⟫)
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=witchayut-arinto&style=flat-square" alt="profile views"/>
-</p> -->
+<!-- Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=ffffff" />
+</p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C853&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%26+Sharing" />
+</p>
+
+<!-- GitHub Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- Divider Animation -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4CAF50,100:2c3e50&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f39c12,100:e74c3c&height=4&section=footer"/>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4CAF50&height=120&section=footer"/>
 </p>
